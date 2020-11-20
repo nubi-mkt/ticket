@@ -1,1 +1,1 @@
-Ticket
+## Comprobante de pago
